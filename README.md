@@ -1,5 +1,5 @@
 # phisical-computation
 
-project of physical computation causes
+project of physical computation course
 
-this is what I DO!
+## to be continue
